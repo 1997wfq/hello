@@ -7,5 +7,7 @@ public class Hello {
         float a = 0.1f;
         double b = 1.0/10;
         System.out.println(a==b);
+        System.out.println("1111");
+
     }
 }
